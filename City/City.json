@@ -1,6 +1,6 @@
 {
-  "imagesZipUri": "https://github.com/Mibokess/DynamicDesktop/tree/master/City/City.zip",
-  "imageFilename": "city(*).jpeg",
+  "imagesZipUri": "https://github.com/Mibokess/DynamicDesktop/raw/master/City/City.zip",
+  "imageFilename": "City(*).jpeg",
   "imageCredits": "Apple",
   "dayImageList": [
     2,
